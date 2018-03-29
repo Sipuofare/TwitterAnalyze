@@ -2,7 +2,7 @@
 {
     internal partial class FileIO
     {
-        enum Mode
+        internal enum Mode
         {
             Write,Read
         }
